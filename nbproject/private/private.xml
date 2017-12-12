@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/error.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/created.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/lib/File.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/site/Accueil.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/updated.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/ModelCommande.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/commande/list.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Config/Conf.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/panier/created.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/view.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/update.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/index.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/Model.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/site/connect.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/ControllerPanier.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/deleted.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/File.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/created.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/lib/Security.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/deconnected.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/routeur.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/ControllerUtilisateur.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/create.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/deleted.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/ModelPanier.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Css/style.css</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/detail.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/ControllerProduit.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/panier/deleted.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/ModelUtilisateur.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/connected.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/images/NY.jpg</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/update.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/lib/Session.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/confirmed.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/list.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/ModelProduit.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Controller/ControllerCommande.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/utilisateur/detail.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/list.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Modele/testModel.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/panier/updated.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/produit/error.php</file>
+            <file>file:/home/ann2/oziolr/public_html/PHP/Projet/Vues/panier/list.php</file>
+        </group>
+    </open-files>
+</project-private>

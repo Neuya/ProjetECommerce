@@ -1,0 +1,377 @@
+#Menu {
+  overflow: hidden;
+  background-color: #333;
+  border : 3px solid #696969;
+  font-size:0px;
+  
+}
+
+
+
+
+
+#Menu a {
+  
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#Menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+#Menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#Menu a.active:hover
+{
+    background-color: #ddd;
+    color: black;     
+}
+
+.login{
+    
+}
+
+
+.login a
+{
+background-color: #4caf50;
+font-style: italic;
+float: right;
+width: 260px;
+text-align: center;
+}
+
+.deco a
+{
+font-style: italic;
+float: right;
+width: 260px;
+text-align: center;
+
+}
+
+
+
+.loginVisit a
+{
+    background-color: #4caf50;
+    font-style: italic;
+    float: right;
+    width: 260px;
+    text-align: center;
+    margin-left: 18px;
+}
+
+footer{  
+    bottom: 0;
+    padding: 1em;
+    color: white;
+    background-color: #333;
+    clear: left;
+    border : 3px solid #696969;
+}
+
+#textfoot
+{
+padding-right:10em;
+padding-left:0em;
+}
+
+
+body{
+background-color : #BBD2E1;
+position:relative;
+}
+
+article{
+background-color:#A9A9A9;
+border : 3px solid #696969;
+padding-bottom:2%;
+padding-top:2%;
+text-align:center;
+}
+
+
+/*LISTE PRODUIT*/
+
+#ajouter a
+{
+background-color : #4CAF50;
+border : 1px solid white;
+padding:7px 80px;
+color:white;
+text-decoration :none;
+font-weight:bold;
+}
+
+#ajouter a:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
+
+.imagelist {
+    width: 10%;
+height: 20%;
+float: left;
+margin-left: 9em;
+border : 1px solid black;
+}
+
+#lienprod
+{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#lienprod a
+{
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 20px 0px;
+    width: 700px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#lienprod a:hover{
+    background-color: white;
+    font-weight:bold;
+    color:black;
+}
+
+#retourListProd
+{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#retourListProd a
+{
+    background-color : #4CAF50;
+    border : 1px solid white;  
+    padding:7px 8px;
+    color:white;
+    text-decoration :none;
+    font-weight:bold;
+}
+
+#retourListProd a:hover
+{
+    background-color: white;
+    font-weight:bold;
+    color:black;
+}
+
+#quantiteProdStock p
+{
+    border: 1px solid black;
+    margin-left: 33%;
+    margin-right: 100px;
+    background-color: #BBD2E1;
+    color: black;
+    width: 28em;    
+
+}
+
+.listeproduit
+{
+    
+    background-color: rgba(240, 255, 247, 0.34);
+    border: 2px solid white;
+    width: 80em;
+    margin-left: 30em;
+}
+
+#quantiteAjout
+{
+    width:70px;
+    text-align :center;
+    padding-left : 1em;
+}
+
+
+#coulprod
+{
+ border: 2px solid white;
+width: 530px;
+background-color: #696969;
+color: white;
+margin-left: 30%
+}
+
+
+/* DETAIL PRODUIT */ 
+
+#imageproduit
+{
+    width: 530px;
+    height: 380px;
+}
+
+#detailprod
+{
+    border: 1px solid white;
+    width: 75em;
+    margin-left: 20em;
+}
+
+#detailprod p
+{
+    border: 1px solid grey;
+    width: 510px;
+    margin-left: 21em;
+}
+
+
+/*PANIER*/
+
+#prodPanier a
+{
+    background-color:   #4CAF50;
+    color : white;
+    text-decoration: none;
+    border : 1px solid black;
+    padding: 10px 15px;
+}
+
+#prodPanier
+{
+    padding-top:1em;
+    padding-bottom:1em;
+}
+
+.bouton_cliquable_panier a
+{
+background-color : #78805A;
+border : 1px solid white;
+padding:7px 80px;
+color:white;
+text-decoration :none;
+font-weight:bold;
+display: inline-block;
+width: 200px;
+}
+
+.bouton_cliquable_panier a:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
+
+.panier a
+{
+    display:inline-block;
+}
+
+/* BOUTONS */
+
+
+.bouton_cliquable a
+{
+background-color : #4CAF50;
+border : 1px solid white;
+padding:7px 80px;
+color:white;
+text-decoration :none;
+font-weight:bold;
+display: inline-block;
+width: 330px;
+}
+
+.bouton_cliquable a:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
+
+.bouton_cliquable input
+{
+background-color : #4CAF50;
+border : 1px solid white;
+padding:7px 80px;
+color:white;
+text-decoration :none;
+font-weight:bold;
+font-size: 18px;
+}
+
+.bouton_cliquable input:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
+
+.bouton_admin a
+{
+background-color : #ff4d4d;
+border : 1px solid white;
+padding:7px 80px;
+color:white;
+text-decoration :none;
+font-weight:bold;
+display: inline-block;
+width: 330px;
+}
+
+.bouton_admin a:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
+
+
+
+/* ACCUEIL */
+
+#ArticleAcc
+{
+    
+}
+
+#imageaccueil
+{
+    display: inline-block;
+    width: 411px;
+    height: 300px;
+    vertical-align: middle;
+}
+    
+.bouton_accueil a
+{
+    background-color: #4CAF50;
+    border: 1px solid white;
+    padding: 7px 80px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    width: 81%;
+    margin-left: 3px;
+    display: inline-block;
+    width: 250px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.bouton_accueil a:hover
+{
+background-color: white;
+font-weight:bold;
+color:black;
+}
