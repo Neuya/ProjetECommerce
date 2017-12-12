@@ -19,6 +19,8 @@
             $_SESSION['isAdmin']=false;
         }
         
+        echo "abeille fait le miel";
+        
         
         
        
